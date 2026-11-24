@@ -1,0 +1,59 @@
+{
+  "lastUpdated": 1795489110863,
+  "items": [
+    {
+      "name": "20260903-193050-czm-label-test-comparison",
+      "title": "CzmLabelTest：三种标签实现方式对比",
+      "date": "2026-09",
+      "description": "同锚点、同字号、同颜色对比三种标签实现：①CzmLabelTest（Canvas光栅化+1:1纹理+屏幕空间quad，逐像素对齐）、②CzmLabel（Cesium原生Label，CSS字号语义）、③CzmCustomLabel（HTML div覆盖层）。",
+      "tags": [
+        "cesium",
+        "webgl",
+        "标签",
+        "文字渲染",
+        "像素对齐",
+        "对比"
+      ],
+      "url": "https://u32.cn/zt/misc/2026/09/20260903-193050-czm-label-test-comparison/web/"
+    },
+    {
+      "name": "20260824-225800-color-vision-test",
+      "title": "色觉异常科普与光谱模拟图",
+      "date": "2026-08",
+      "description": "13 种色觉类型光谱模拟图 + 色盲色弱科普速览（定义/原理/分类/发生率/混淆色/检测/应对），内容提炼自知乎超详细科普文章",
+      "tags": [
+        "科普",
+        "健康",
+        "色觉"
+      ],
+      "url": "https://u32.cn/zt/misc/2026/08/20260824-225800-color-vision-test/web/"
+    },
+    {
+      "name": "20260824-205831-seedream-touch-edit",
+      "title": "Seedream 5.0 交互编辑",
+      "date": "2026-08",
+      "description": "豆包 Seedream 5.0 pro 交互编辑纯静态网页——上传图片、点选/框选生成 grounding prompt，浏览器直连火山方舟 API 出图",
+      "tags": [
+        "seedream",
+        "图像编辑",
+        "火山方舟",
+        "静态页面"
+      ],
+      "url": "https://u32.cn/zt/misc/2026/08/20260824-205831-seedream-touch-edit/web/"
+    },
+    {
+      "name": "20260821-093812-ai-agent-skills",
+      "title": "AI Agent 设计技能",
+      "date": "2026-08",
+      "description": "四款开源 AI Agent 设计技能的专题展示，每款技能用自身的设计能力展示自身",
+      "tags": [
+        "AI",
+        "Agent",
+        "Skills",
+        "设计",
+        "图表"
+      ],
+      "url": "https://u32.cn/zt/misc/2026/08/20260821-093812-ai-agent-skills/web/"
+    }
+  ]
+}
