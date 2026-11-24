@@ -1,0 +1,24 @@
+# 密钥与本地环境
+.env
+.env.*
+*.local
+
+# AI 工具目录
+.zcode/
+.claude/
+.codebuddy/
+.cursor/
+.windsurf/
+.codeium/
+.aider*
+.copilot*
+
+# 依赖与构建
+node_modules/
+dist/
+
+# m/ 子应用走 OSS bigdata，不入 git
+m/
+m-staging/
+*.ossutil_report
+ossutil_output/
